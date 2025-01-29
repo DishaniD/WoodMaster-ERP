@@ -40,10 +40,7 @@
    - Open the project in a web browser:  
      ```
      http://localhost/WoodShop
-     ```  
-
-## 📷 Screenshots  
-_Add screenshots of your project to showcase features._  
+     ```   
 
 ## 🤝 Contributing  
 We welcome contributions! Follow these steps:  
@@ -64,6 +61,3 @@ We welcome contributions! Follow these steps:
 
 ## 📜 License  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-
-## 📞 Contact  
-For queries or suggestions, reach out via email: [your-email@example.com](mailto:your-email@example.com).  
